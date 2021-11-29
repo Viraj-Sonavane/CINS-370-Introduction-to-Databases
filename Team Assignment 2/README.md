@@ -1,2 +1,1 @@
-# Data-Structures-Algorithms
-Problem solving using Data Structures and Algorithms
+# Team Assignment 2
